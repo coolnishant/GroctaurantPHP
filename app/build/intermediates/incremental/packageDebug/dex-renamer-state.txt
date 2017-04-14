@@ -1,0 +1,7 @@
+#Fri Apr 14 15:22:33 IST 2017
+base.0=E\:\\Project\\testProj\\GroctaurantPHP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f0f84d4d6eb75a09b22dad3ccbeb993c8cd2d80e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Project\\testProj\\GroctaurantPHP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fffda6cd0debe1c2057dbbccabd238a11392dd2c\\classes.dex
+base.1=E\:\\Project\\testProj\\GroctaurantPHP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fffda6cd0debe1c2057dbbccabd238a11392dd2c
+file.0=E\:\\Project\\testProj\\GroctaurantPHP\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f0f84d4d6eb75a09b22dad3ccbeb993c8cd2d80e\\classes.dex

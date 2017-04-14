@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Project\\testProj\\GroctaurantPHP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Nishant\\.android\\build-cache\\74f120d5502f1e0377a721522bc44bad9b74390b\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Project\\testProj\\GroctaurantPHP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Nishant\\.android\\build-cache\\74f120d5502f1e0377a721522bc44bad9b74390b\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Project\\testProj\\GroctaurantPHP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Nishant\\.android\\build-cache\\74f120d5502f1e0377a721522bc44bad9b74390b\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Project\\testProj\\GroctaurantPHP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Nishant\\.android\\build-cache\\74f120d5502f1e0377a721522bc44bad9b74390b\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

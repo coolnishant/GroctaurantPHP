@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\.android\build-cache\62f7f09a00ecfefc6d74016e493da8b57bf67c82\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2688307a32bd00a6bd9d07ec96c2ea30dae854ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\.android\build-cache\969c50950df18af243204d59ec7629d64d959d28\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67d6734b355cc189e6153572dfb9e20f8fa16047\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\.android\build-cache\2de8a84673d44cd0e4d15d2e68a643a6a1e683ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8572068ca05c6ad29f8152d243ab5ec3bfe4aeb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fffda6cd0debe1c2057dbbccabd238a11392dd2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project\testProj\GroctaurantPHP\app\mysql-connector-java-5.1.23-bin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c264e2114579474d13dd808a510fc74e762dda8c">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\2\mysql-connector-java-5.1.23-bin_f5f0ce086a3118f6f4c6c242bc27cba1bbe3ec4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project\testProj\GroctaurantPHP\app\apache-httpcomponents-httpcore.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\2\apache-httpcomponents-httpcore_e658653f3acc2392038ce807159322d741a6b9a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project\testProj\GroctaurantPHP\app\json-simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\2\json-simple-1.1_1f002fe69fe968b87006b71f76cb1b4ef71b8795\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project\testProj\GroctaurantPHP\app\httpclient-4.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcacc35075d9c3114da4c4122b42d78786135c90">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.0.3_7d5e59ca89f97b9daedb5c293523609073a97291\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\.android\build-cache\fa0908ce9fc2d40c7ba6534937aa8415cb1b9503\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e9b959c99de0cd8ba32588c3e862b227a371f49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\.android\build-cache\74f120d5502f1e0377a721522bc44bad9b74390b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_37c74a53a4e5d304aad1eb5e36da31eceb4efbba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\.android\build-cache\db17a43babe46f5f8d2f295d065a0714db707625\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d78da46696bc4922cbaf83cdc2f0b2040a98952\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Software\Study\shareAndroid\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_fff7387591ce005b1c5bc743fbc53d950959230f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\.android\build-cache\a91d7924b6cdfb8b7ed8b221936034fd99b1d6a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed21d1e4780452f566b976a1e92694d8a29fa2a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ea01ff3abb3bed8fdafc3c1de294b056071e8e3">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f0f84d4d6eb75a09b22dad3ccbeb993c8cd2d80e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\.android\build-cache\69b8fb9878c6dc82012282e2a65ee0409e7b8377\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae1ec0e62d2e959728af4a37cfd30e9a69898590\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\.android\build-cache\a882caa42adfa3d861374806cfc24f6bd67d30dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_251507d717463504b9042601776d2f64c8bac359\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project\testProj\GroctaurantPHP\app\http-2.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4aab2892e4f24e7517826d78786cc24be5b6a2d">
+        <dex dex="E:\Project\testProj\GroctaurantPHP\app\build\intermediates\transforms\dex\debug\folders\1000\2\http-2.2.1_bcbd83aacfe2b71eb1861cfb4a143bc411041619\classes.dex" />
+    </item>
+
+</items>

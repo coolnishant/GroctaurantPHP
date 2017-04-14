@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Project\\testProj\\GroctaurantPHP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Nishant\\.android\\build-cache\\74f120d5502f1e0377a721522bc44bad9b74390b\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Project\\testProj\\GroctaurantPHP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Nishant\\.android\\build-cache\\74f120d5502f1e0377a721522bc44bad9b74390b\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Project\\testProj\\GroctaurantPHP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Nishant\\.android\\build-cache\\74f120d5502f1e0377a721522bc44bad9b74390b\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Project\\testProj\\GroctaurantPHP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Nishant\\.android\\build-cache\\74f120d5502f1e0377a721522bc44bad9b74390b\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Project\\testProj\\GroctaurantPHP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Nishant\\.android\\build-cache\\74f120d5502f1e0377a721522bc44bad9b74390b\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\Project\\testProj\\GroctaurantPHP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Nishant\\.android\\build-cache\\74f120d5502f1e0377a721522bc44bad9b74390b\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    }
+]
